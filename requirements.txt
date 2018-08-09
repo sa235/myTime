@@ -4,3 +4,9 @@ python3 -m venv env
 
 # Windows
 py -3 -m venv env
+
+# macOS/Linux
+pip3 install flask
+
+# Windows
+pip install flask
